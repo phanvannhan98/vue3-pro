@@ -1,0 +1,25 @@
+.menu-item {
+  @apply relative flex flex-col items-center justify-center whitespace-nowrap px-1.5 text-black/70;
+
+  &:after {
+    @apply invisible h-0 overflow-hidden font-bold content-[attr(data-title)];
+  }
+
+  &.router-link-active {
+    @apply font-bold;
+
+    &:before {
+      content: '';
+      @apply absolute bottom-0 left-0 h-[5px] w-full rounded-t bg-cpurple-5/80;
+    }
+  }
+}
+
+.avatar-circle {
+  @apply -ml-2 flex h-8 w-8 cursor-pointer items-center justify-center overflow-hidden 
+  rounded-full border-4 border-white bg-cblue-1 font-bold text-cgray-6/50;
+
+  &__text {
+    @apply flex;
+  }
+}

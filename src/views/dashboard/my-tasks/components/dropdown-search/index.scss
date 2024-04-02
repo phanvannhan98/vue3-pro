@@ -1,0 +1,20 @@
+.dropdown-search {
+  .avatar-circle {
+    @apply h-9 w-9 cursor-pointer overflow-hidden rounded-full bg-cgray-3;
+  }
+
+  &__item {
+    @apply flex items-center justify-between gap-6 px-6 py-3 font-poppins text-xsm;
+
+    &:hover,
+    &.active {
+      @apply relative bg-cblue-1;
+    }
+
+    &.active {
+      &:before {
+        @apply absolute left-0 h-full w-[3px] rounded-r bg-cpurple-6 content-[''];
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+// ///////////////////////////////////////////////
+// Fade
+// ///////////////////////////////////////////////
+
+.fade-enter-active,
+.move-enter-active {
+  @apply duration-100 ease-out;
+}
+
+.fade-leave-active,
+.move-leave-active {
+  @apply duration-75 ease-in;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+  @apply opacity-0;
+}
+
+// ///////////////////////////////////////////////
+// Fade scale
+// ///////////////////////////////////////////////
+
+.fade-scale-enter-active {
+  @apply duration-100 ease-out;
+}
+
+.fade-scale-leave-active {
+  @apply duration-75 ease-in;
+}
+
+.fade-scale-leave-from,
+.fade-scale-enter-to {
+  @apply scale-100 opacity-100;
+}
+
+.fade-scale-leave-to,
+.fade-scale-enter-from {
+  @apply scale-95 opacity-0;
+}
+
+// ///////////////////////////////////////////////
+// Fade move
+// ///////////////////////////////////////////////
+
+.fade-move {
+  @apply duration-200 ease-in-out;
+}
+
+.move-move {
+  @apply duration-200 ease-in-out;
+}
+
+.move-enter-from,
+.move-leave-to {
+  @apply translate-x-8 opacity-0;
+}
