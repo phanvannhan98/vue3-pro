@@ -1,0 +1,30 @@
+.g-selectbox {
+  @apply relative h-12 w-96 cursor-pointer rounded-lg border border-cgray-4 bg-white
+    font-normal outline outline-0 outline-cpurple-5/20 duration-200 ease-in-out;
+
+  &:hover,
+  &:focus-within {
+    @apply border-cpurple-5 outline-4;
+  }
+
+  &:disabled {
+    @apply cursor-not-allowed border-cgray-3 bg-cgray-1 outline-none;
+
+    .g-selectbox__selector {
+      @apply pointer-events-none text-cgray-4;
+    }
+  }
+
+  &__selector {
+    @apply flex h-full w-full select-none items-center justify-between px-4 py-3 text-cgray-6
+    duration-300 hover:text-cpurple-5;
+
+    .close-button {
+      @apply opacity-0 duration-100 ease-out;
+    }
+
+    &:hover .close-button {
+      @apply opacity-100;
+    }
+  }
+}

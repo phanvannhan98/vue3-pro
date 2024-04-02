@@ -1,0 +1,37 @@
+#app {
+  width: 100%;
+  height: 100%;
+}
+
+::-webkit-scrollbar {
+  width: 7px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-black/5 opacity-50;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply rounded-sm bg-cgray-4/80 shadow;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-cgray-5;
+}
+
+.overflow-x-auto {
+  &::-webkit-scrollbar {
+    height: 0;
+  }
+
+  &::-webkit-resizer {
+    display: none;
+  }
+
+  &:hover {
+    &::-webkit-scrollbar {
+      height: 8px;
+    }
+  }
+}

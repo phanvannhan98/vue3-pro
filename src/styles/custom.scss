@@ -1,0 +1,25 @@
+.Vue-Toastification__toast {
+  &--success {
+    @apply bg-cgreen-6;
+  }
+
+  &--info {
+    @apply bg-cblue-6;
+  }
+
+  &--warning {
+    @apply bg-cyellow-6;
+  }
+
+  &--error {
+    @apply bg-cred-6;
+  }
+
+  &--default {
+    @apply bg-cpurple-6;
+  }
+
+  &-body {
+    @apply font-poppins text-smd;
+  }
+}

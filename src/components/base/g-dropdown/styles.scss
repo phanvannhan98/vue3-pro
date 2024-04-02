@@ -1,0 +1,53 @@
+.g-dropdown {
+  @apply relative h-12 w-96 cursor-pointer rounded-lg border border-cgray-4 bg-white
+     font-normal outline outline-0 outline-cpurple-3/40 duration-200 ease-in-out;
+
+  &:hover,
+  &:focus-within {
+    @apply border-cpurple-3 outline-4;
+  }
+
+  &:disabled {
+    @apply cursor-not-allowed border-cgray-3 bg-cgray-1 outline-none;
+
+    .g-dropdown__selector {
+      @apply pointer-events-none text-cgray-3;
+    }
+  }
+
+  &__selector {
+    @apply flex h-full w-full select-none items-center justify-between px-4 py-3 text-cgray-4
+    duration-300 hover:text-cpurple-3;
+
+    .close-button {
+      @apply opacity-0 duration-100 ease-out;
+    }
+
+    &:hover .close-button {
+      @apply opacity-100;
+    }
+  }
+
+  &__list {
+    @apply absolute left-0 top-[calc(100%+8px)] flex w-full rounded-lg border
+    border-cgray-4/20 bg-white p-3 py-1 shadow-md;
+
+    .select-item {
+      @apply flex h-10 items-center justify-between rounded-lg py-2 pl-4 pr-5 text-cgray-4
+      duration-150;
+
+      svg {
+        opacity: 0;
+      }
+
+      &.active,
+      &:hover {
+        @apply bg-cpurple-3/20 text-cpurple-3;
+      }
+
+      &.active svg {
+        opacity: 1;
+      }
+    }
+  }
+}
