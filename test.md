@@ -23,3 +23,22 @@ https://www.cybertalk.org/a-data-breach-on-a-site-or-app-exposed-your-password/
 ］ (U+FF3D) - Dấu ngoặc vuông đóng  
 、 (U+FF0C) - Dấu phẩy  
 。 (U+FF0E) - Dấu chấm  
+！ 
+〆	 
+？	
+（	
+）	
+［	
+］	
+、	
+。	
+・	
+＋	
+／	
+＝	
+〜	
+‥	
+＠	
+＄	
+％	
+＃
