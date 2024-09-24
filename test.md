@@ -2,4 +2,5 @@
 
 [！-／]|[：-＠]|[［-］]
 
+!
 https://www.cybertalk.org/a-data-breach-on-a-site-or-app-exposed-your-password/
