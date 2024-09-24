@@ -2,6 +2,8 @@
 
 [！-／]|[：-＠]|[［-］]
 
+/[^\x00-\x7F\u3000\uFF01-\uFF5E\uFF61-\uFF9F]/g
+
 
 https://www.cybertalk.org/a-data-breach-on-a-site-or-app-exposed-your-password/
   
