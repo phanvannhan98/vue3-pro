@@ -1,0 +1,431 @@
+{
+  "messages": [
+    {
+      "creator": {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 9:00:00 AM UTC",
+      "text": "Hi Sarah! How's your study going this semester?",
+      "topic_id": "studies1",
+      "message_id": "7j29Y4AAAAE/studies1/studies1"
+    },
+    {
+      "creator": {
+        "name": "Sarah Johnson",
+        "email": "sarah.johnson@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 9:05:00 AM UTC",
+      "text": "Hey John! It's going well, thanks! I've been focusing on my math class. How about you?",
+      "topic_id": "studies2",
+      "message_id": "7j29Y4AAAAE/studies2/studies2",
+      "reactions": [
+        {
+          "emoji": {
+            "unicode": "😊"
+          },
+          "reactor_emails": [
+            "john.smith@example.com"
+          ]
+        }
+      ]
+    },
+    {
+      "creator": {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 9:10:00 AM UTC",
+      "text": "I've been working on my science project. It's a bit challenging, but I'm enjoying it!",
+      "topic_id": "studies3",
+      "message_id": "7j29Y4AAAAE/studies3/studies3"
+    },
+    {
+      "creator": {
+        "name": "Sarah Johnson",
+        "email": "sarah.johnson@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 9:15:00 AM UTC",
+      "text": "That sounds interesting! What topic are you focusing on for your project?",
+      "topic_id": "studies4",
+      "message_id": "7j29Y4AAAAE/studies4/studies4"
+    },
+    {
+      "creator": {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 9:20:00 AM UTC",
+      "text": "I'm researching renewable energy sources. It's fascinating to learn about solar and wind power.",
+      "topic_id": "studies5",
+      "message_id": "7j29Y4AAAAE/studies5/studies5"
+    },
+    {
+      "creator": {
+        "name": "Sarah Johnson",
+        "email": "sarah.johnson@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 9:25:00 AM UTC",
+      "text": "That’s a great topic! I think renewable energy is the future. Have you found any good resources?",
+      "topic_id": "studies6",
+      "message_id": "7j29Y4AAAAE/studies6/studies6"
+    },
+    {
+      "creator": {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 9:30:00 AM UTC",
+      "text": "Yes, I found some useful articles and documentaries. I can share them with you if you're interested!",
+      "topic_id": "studies7",
+      "message_id": "7j29Y4AAAAE/studies7/studies7"
+    },
+    {
+      "creator": {
+        "name": "Sarah Johnson",
+        "email": "sarah.johnson@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 9:35:00 AM UTC",
+      "text": "I would love that! I'm always looking for more study materials.",
+      "topic_id": "studies8",
+      "message_id": "7j29Y4AAAAE/studies8/studies8"
+    },
+    {
+      "creator": {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 9:40:00 AM UTC",
+      "text": "Great! I'll send them over after our chat. Do you have any upcoming exams?",
+      "topic_id": "studies9",
+      "message_id": "7j29Y4AAAAE/studies9/studies9"
+    },
+    {
+      "creator": {
+        "name": "Sarah Johnson",
+        "email": "sarah.johnson@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 9:45:00 AM UTC",
+      "text": "Yes, I have a math exam next week. I'm a bit nervous about it.",
+      "topic_id": "studies10",
+      "message_id": "7j29Y4AAAAE/studies10/studies10"
+    },
+    {
+      "creator": {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 9:50:00 AM UTC",
+      "text": "You'll do great! Have you been studying regularly?",
+      "topic_id": "studies11",
+      "message_id": "7j29Y4AAAAE/studies11/studies11"
+    },
+    {
+      "creator": {
+        "name": "Sarah Johnson",
+        "email": "sarah.johnson@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 9:55:00 AM UTC",
+      "text": "Yes, I've been reviewing my notes and practicing problems. I just need to keep it up!",
+      "topic_id": "studies12",
+      "message_id": "7j29Y4AAAAE/studies12/studies12"
+    },
+    {
+      "creator": {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 10:00:00 AM UTC",
+      "text": "That's the spirit! If you want, we can study together sometime.",
+      "topic_id": "studies13",
+      "message_id": "7j29Y4AAAAE/studies13/studies13"
+    },
+    {
+      "creator": {
+        "name": "Sarah Johnson",
+        "email": "sarah.johnson@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 10:05:00 AM UTC",
+      "text": "I would really appreciate that! It helps to have a study buddy.",
+      "topic_id": "studies14",
+      "message_id": "7j29Y4AAAAE/studies14/studies14"
+    },
+    {
+      "creator": {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 10:10:00 AM UTC",
+      "text": "How about this weekend? We can go over some practice tests together.",
+      "topic_id": "studies15",
+      "message_id": "7j29Y4AAAAE/studies15/studies15"
+    },
+    {
+      "creator": {
+        "name": "Sarah Johnson",
+        "email": "sarah.johnson@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 10:15:00 AM UTC",
+      "text": "That sounds perfect! Let's set a time.",
+      "topic_id": "studies16",
+      "message_id": "7j29Y4AAAAE/studies16/studies16"
+    },
+    {
+      "creator": {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 10:20:00 AM UTC",
+      "text": "How about Saturday afternoon? We can meet at the library.",
+      "topic_id": "studies17",
+      "message_id": "7j29Y4AAAAE/studies17/studies17"
+    },
+    {
+      "creator": {
+        "name": "Sarah Johnson",
+        "email": "sarah.johnson@example.com",
+        " user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 10:25:00 AM UTC",
+      "text": "Saturday afternoon works for me! Looking forward to it.",
+      "topic_id": "studies18",
+      "message_id": "7j29Y4AAAAE/studies18/studies18"
+    },
+    {
+      "creator": {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 10:30:00 AM UTC",
+      "text": "Awesome! I'll see you then. Let's ace those practice tests!",
+      "topic_id": "studies19",
+      "message_id": "7j29Y4AAAAE/studies19/studies19"
+    },
+    {
+      "creator": {
+        "name": "Sarah Johnson",
+        "email": "sarah.johnson@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 10:35:00 AM UTC",
+      "text": "Yes! Thanks for helping me out, John. Have a great day!",
+      "topic_id": "studies20",
+      "message_id": "7j29Y4AAAAE/studies20/studies20"
+    },
+    {
+      "creator": {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 10:40:00 AM UTC",
+      "text": "You too, Sarah! See you on Saturday!",
+      "topic_id": "studies21",
+      "message_id": "7j29Y4AAAAE/studies21/studies21"
+    },
+    {
+      "creator": {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 11:00:00 AM UTC",
+      "text": "Hey Mark! How's your studying going for the finals?",
+      "topic_id": "studies22",
+      "message_id": "7j29Y4AAAAE/studies22/studies22"
+    },
+    {
+      "creator": {
+        "name": "Mark Taylor",
+        "email": "mark.taylor@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 11:05:00 AM UTC",
+      "text": "Hi John! It's going pretty well. I've been focusing on my history and literature classes.",
+      "topic_id": "studies23",
+      "message_id": "7j29Y4AAAAE/studies23/studies23",
+      "reactions": [
+        {
+          "emoji": {
+            "unicode": "👍"
+          },
+          "reactor_emails": [
+            "john.smith@example.com"
+          ]
+        }
+      ]
+    },
+    {
+      "creator": {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 11:10:00 AM UTC",
+      "text": "That's great! I'm currently working on my math and science projects. They are quite challenging.",
+      "topic_id": "studies24",
+      "message_id": "7j29Y4AAAAE/studies24/studies24"
+    },
+    {
+      "creator": {
+        "name": "Mark Taylor",
+        "email": "mark.taylor@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 11:15:00 AM UTC",
+      "text": "What topics are you covering in your projects?",
+      "topic_id": "studies25",
+      "message_id": "7j29Y4AAAAE/studies25/studies25"
+    },
+    {
+      "creator": {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 11:20:00 AM UTC",
+      "text": "I'm focusing on climate change and its impact on ecosystems. It's really eye-opening.",
+      "topic_id": "studies26",
+      "message_id": "7j29Y4AAAAE/studies26/studies26"
+    },
+    {
+      "creator": {
+        "name": "Mark Taylor",
+        "email": "mark.taylor@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 11:25:00 AM UTC",
+      "text": "That sounds fascinating! Have you found any good resources for your research?",
+      "topic_id": "studies27",
+      "message_id": "7j29Y4AAAAE/studies27/studies27"
+    },
+    {
+      "creator": {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 11:30:00 AM UTC",
+      "text": "Yes, I found some great documentaries and articles. I can share them with you if you're interested!",
+      "topic_id": "studies28",
+      "message_id": "7j29Y4AAAAE/studies28/studies28"
+    },
+    {
+      "creator": {
+        "name": "Mark Taylor",
+        "email": "mark.taylor@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 11:35:00 AM UTC",
+      "text": "I would appreciate that! I'm always looking for more study materials.",
+      "topic_id": "studies29",
+      "message_id": "7j29Y4AAAAE/studies29/studies29"
+    },
+    {
+      "creator": {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 11:40:00 AM UTC",
+      "text": "Great! I'll send those over after our chat. Do you have any exams coming up?",
+      "topic_id": "studies30",
+      "message_id": "7j29Y4AAAAE/studies30/studies30"
+    },
+    {
+      "creator": {
+        "name": "Mark Taylor",
+        "email": "mark.taylor@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 11:45:00 AM UTC",
+      "text": "Yes, I have a history exam next week. I'm a bit anxious about it.",
+      "topic_id": "studies31",
+      "message_id": "7j29Y4AAAAE/studies31/studies31"
+    },
+    {
+      "creator": {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 11:50:00 AM UTC",
+      "text": "You'll do great! Have you been studying consistently?",
+      "topic_id": "studies32",
+      "message_id": "7j29Y4AAAAE/studies32/studies32"
+    },
+    {
+      "creator": {
+        "name": "Mark Taylor",
+        "email": "mark.taylor@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 11:55:00 AM UTC",
+      "text": "Yes, I've been reviewing my notes and doing practice quizzes. Just need to keep it up!",
+      "topic_id": "studies33",
+      "message_id": "7j29Y4AAAAE/studies33/studies33"
+    },
+    {
+      "creator": {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 12:00:00 PM UTC",
+      "text": "That's the way to go! If you want, we can study together this weekend.",
+      "topic_id": "studies34",
+      "message_id": "7j29Y4AAAAE/studies34/studies34"
+    },
+    {
+      "creator": {
+        "name": "Mark Taylor",
+        "email": "mark.taylor@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 12:05:00 PM UTC",
+      "text": "I would love that! It helps to have someone to study with.",
+      "topic_id": "studies35",
+      "message_id": "7j29Y4AAAAE/studies35/studies35"
+    },
+    {
+      "creator": {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 12:10:00 PM UTC",
+      "text": "How about Saturday morning? We can meet at the library.",
+      "topic_id": "studies36",
+      "message_id": "7j29Y4AAAAE/studies36/studies36"
+    },
+    {
+      "creator": {
+        "name": "Mark Taylor",
+        "email": "mark.taylor@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 12:15:00 PM UTC",
+      "text": "Saturday morning works for me! Looking forward to it.",
+      "topic_id": "studies37",
+      "message_id": "7j29Y4AAAAE/studies37/studies37"
+    }
+  ]
+}
