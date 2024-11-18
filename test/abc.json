@@ -1,0 +1,368 @@
+{
+  "messages": [
+    {
+      "creator": {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 9:00:00 AM UTC",
+      "text": "Good morning, Emily! How was your weekend?",
+      "topic_id": "hrlCQ0Ye5Sc",
+      "message_id": "7j29Y4AAAAE/hrlCQ0Ye5Sc/hrlCQ0Ye5Sc"
+    },
+    {
+      "creator": {
+        "name": "Emily Brown",
+        "email": "emily.brown@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 9:05:00 AM UTC",
+      "text": "Good morning, John! My weekend was great, thanks for asking. I went hiking in the mountains. How about you?",
+      "topic_id": "RydAi3YwitI",
+      "message_id": "7j29Y4AAAAE/RydAi3YwitI/RydAi3YwitI",
+      "reactions": [
+        {
+          "emoji": {
+            "unicode": "😊"
+          },
+          "reactor_emails": [
+            "john.smith@example.com"
+          ]
+        }
+      ]
+    },
+    {
+      "creator": {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 9:10:00 AM UTC",
+      "text": "That sounds amazing! I had a relaxing weekend at home, watched a few movies, and did some gardening.",
+      "topic_id": "frOdo982pd4",
+      "message_id": "7j29Y4AAAAE/frOdo982pd4/frOdo982pd4",
+      "attached_files": [
+        {
+          "original_name": "image.png",
+          "export_name": "File-image.png"
+        }
+      ]
+    },
+    {
+      "creator": {
+        "name": "Emily Brown",
+        "email": "emily.brown@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 9:15:00 AM UTC",
+      "text": "Nice! Do you have any new plants in your garden?",
+      "topic_id": "AI8aQUlFm5M",
+      "message_id": "7j29Y4AAAAE/AI8aQUlFm5M/AI8aQUlFm5M",
+      "reactions": [
+        {
+          "emoji": {
+            "unicode": "🌻"
+          },
+          "reactor_emails": [
+            "john.smith@example.com"
+          ]
+        }
+      ]
+    },
+    {
+      "creator": {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 9:20:00 AM UTC",
+      "text": "Yes, I planted some roses and tomatoes. Can't wait to see them bloom and grow.",
+      "topic_id": "hheu4pZ5xSc",
+      "message_id": "7j29Y4AAAAE/hheu4pZ5xSc/hheu4pZ5xSc",
+      "reactions": [
+        {
+          "emoji": {
+            "unicode": "🌹"
+          },
+          "reactor_emails": [
+            "emily.brown@example.com"
+          ]
+        }
+      ]
+    },
+    {
+      "creator": {
+        "name": "Emily Brown",
+        "email": "emily.brown@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 9:25:00 AM UTC",
+      "text": "That's wonderful! We should plan a garden party sometime. I'd love to see your garden in person.",
+      "topic_id": "1txY2WRm6aU",
+      "message_id": "7j29Y4AAAAE/1txY2WRm6aU/1txY2WRm6aU",
+      "reactions": [
+        {
+          "emoji": {
+            "unicode": "🎉"
+          },
+          "reactor_emails": [
+            "john.smith@example.com"
+          ]
+        }
+      ]
+    },
+    {
+      "creator": {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 9:30:00 AM UTC",
+      "text": "Great idea! Let's plan for next weekend. I'll make sure the garden is in perfect shape.",
+      "topic_id": "DUrPwZNp8xc",
+      "message_id": "7j29Y4AAAAE/DUrPwZNp8xc/DUrPwZNp8xc",
+      "reactions": [
+        {
+          "emoji": {
+            "unicode": "👍"
+          },
+          "reactor_emails": [
+            "emily.brown@example.com"
+          ]
+        }
+      ]
+    },
+    {
+      "creator": {
+        "name": "Emily Brown",
+        "email": "emily.brown@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 9:35:00 AM UTC",
+      "text": "I’ll bring some snacks and drinks. This is going to be fun!",
+      "topic_id": "hr7Dx9bQF2z",
+      "message_id": "7j29Y4AAAAE/hr7Dx9bQF2z/hr7Dx9bQF2z",
+      "reactions": [
+        {
+          "emoji": {
+            "unicode": "😋"
+          },
+          "reactor_emails": [
+            "john.smith@example.com"
+          ]
+        }
+      ]
+    },
+    {
+      "creator": {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 9:40:00 AM UTC",
+      "text": "Perfect! Do you have any plans for tonight?",
+      "topic_id": "fj8DfU1K93o",
+      "message_id": "7j29Y4AAAAE/fj8DfU1K93o/fj8DfU1K93o"
+    },
+    {
+      "creator": {
+        "name": "Emily Brown",
+        "email": "emily.brown@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 9:45:00 AM UTC",
+      "text": "Not really, I was thinking of watching a movie. Any recommendations?",
+      "topic_id": "zO3Mx5tG7Ym",
+      "message_id": "7j29Y4AAAAE/zO3Mx5tG7Ym/zO3Mx5tG7Ym",
+      "reactions": [
+        {
+          "emoji": {
+            "unicode": "🎬"
+          },
+          "reactor_emails": [
+            "john.smith@example.com"
+          ]
+        }
+      ]
+    },
+    {
+      "creator": {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 9:50:00 AM UTC",
+      "text": "You should watch 'Inception.' It's a mind-bending thriller that will keep you on the edge of your seat!",
+      "topic_id": "Xa4Cn7Hj2Bk",
+      "message_id": "7j29Y4AAAAE/Xa4Cn7Hj2Bk/Xa4Cn7Hj2Bk",
+      "reactions": [
+        {
+          "emoji": {
+            "unicode": "🤯"
+          },
+          "reactor_emails": [
+            "emily.brown@example.com"
+          ]
+        }
+      ]
+    },
+    {
+      "creator": {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 10:00:00 AM UTC",
+      "text": "You're welcome! If you need more movie suggestions, let me know.",
+      "topic_id": "dZ5Qr4Kt7Nm",
+      "message_id": "7j29Y4AAAAE/dZ5Qr4Kt7Nm/dZ5Qr4Kt7Nm"
+    },
+    {
+      "creator": {
+        "name": "Emily Brown",
+        "email": "emily.brown@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 10:05:00 AM UTC",
+      "text": "Will do! By the way, have you tried the new coffee shop that opened downtown?",
+      "topic_id": "uM4Ja3Wl6Bc",
+      "message_id": "7j29Y4AAAAE/uM4Ja3Wl6Bc/uM4Ja3Wl6Bc"
+    },
+    {
+      "creator": {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 10:10:00 AM UTC",
+      "text": "Not yet! I've heard good things about it. Have you been there?",
+      "topic_id": "yL3Tc8Hk5Dv",
+      "message_id": "7j29Y4AAAAE/yL3Tc8Hk5Dv/yL3Tc8Hk5Dv",
+      "reactions": [
+        {
+          "emoji": {
+            "unicode": "☕"
+          },
+          "reactor_emails": [
+            "emily.brown@example.com"
+          ]
+        }
+      ]
+    },
+    {
+      "creator": {
+        "name": "Emily Brown",
+        "email": "emily.brown@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 10:15:00 AM UTC",
+      "text": "Yes, I went there last weekend. The atmosphere is cozy, and their lattes are delicious!",
+      "topic_id": "kN8Rw5Ej9Lp",
+      "message_id": "7j29Y4AAAAE/kN8Rw5Ej9Lp/kN8Rw5Ej9Lp",
+      "reactions": [
+        {
+          "emoji": {
+            "unicode": "😍"
+          },
+          "reactor_emails": [
+            "john.smith@example.com"
+          ]
+        }
+      ]
+    },
+    {
+      "creator": {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 10:20:00 AM UTC",
+      "text": "I'll have to check it out. Maybe we can go together sometime!",
+      "topic_id": "xT4Pn6Tj8Qk",
+      "message_id": "7j29Y4AAAAE/xT4Pn6Tj8Qk/xT4Pn6Tj8Qk"
+    },
+    {
+      "creator": {
+        "name": "Emily Brown",
+        "email": "emily.brown@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 10:25:00 AM UTC",
+      "text": "That sounds like a plan! How about this Friday after work?",
+      "topic_id": "qR5Jr3Gm7Nc",
+      "message_id": "7j29Y4AAAAE/qR5Jr3Gm7Nc/qR5Jr3Gm7Nc",
+      "quoted_message_metadata": {
+        "creator": {
+          "name": "John Smith",
+          "email": "john.smith@example.com",
+          "user_type": "Human"
+        },
+        "text": "Maybe we can go together sometime!"
+      }
+    },
+    {
+      "creator": {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 10:30:00 AM UTC",
+      "text": "Perfect! I'll see you then. Can't wait to try their lattes.",
+      "topic_id": "rN6Kl8Fj4By",
+      "message_id": "7j29Y4AAAAE/rN6Kl8Fj4By/rN6Kl8Fj4By",
+      "reactions": [
+        {
+          "emoji": {
+            "unicode": "👍"
+          },
+          "reactor_emails": [
+            "emily.brown@example.com"
+          ]
+        }
+      ]
+    },
+    {
+      "creator": {
+        "name": "Emily Brown",
+        "email": "emily.brown@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 10:35:00 AM UTC",
+      "text": "See you on Friday, John! Have a great day ahead.",
+      "topic_id": "wL9Gj7Nk2Xp",
+      "message_id": "7j29Y4AAAAE/wL9Gj7Nk2Xp/wL9Gj7Nk2Xp",
+      "reactions": [
+        {
+          "emoji": {
+            "unicode": "🌞"
+          },
+          "reactor_emails": [
+            "john.smith@example.com"
+          ]
+        }
+      ]
+    },
+    {
+      "creator": {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, November 18, 2024 at 10:40:00 AM UTC",
+      "text": "You too, Emily! Take care.",
+      "topic_id": "bK3Mj4Cj9Zx",
+      "message_id": "7j29Y4AAAAE/bK3Mj4Cj9Zx/bK3Mj4Cj9Zx",
+      "reactions": [
+        {
+          "emoji": {
+            "unicode": "👋"
+          },
+          "reactor_emails": [
+            "emily.brown@example.com"
+          ]
+        }
+      ]
+    }
+  ]
+}
