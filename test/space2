@@ -2,399 +2,652 @@
   "messages": [
     {
       "creator": {
-        "name": "User 1 Alice Johnson",
-        "email": "alice.johnson@projectteam.com",
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:00:00 AM UTC",
-      "text": "Hey team, let's discuss our project management strategies for the upcoming quarter.",
+      "created_date": "Thursday, November 14, 2024 at 9:00:00 AM UTC",
+      "text": "Good morning everyone! I hope you're all doing well. I wanted to discuss the upcoming project deadlines and how we can ensure we stay on track.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/001"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/1"
     },
     {
       "creator": {
-        "name": "User 2 Bob Smith",
-        "email": "bob.smith@projectteam.com",
+        "name": "Bob Smith",
+        "email": "bob.smith@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:05:00 AM UTC",
-      "text": "Great idea, Alice! I think we should focus on improving our communication tools.",
+      "created_date": "Thursday, November 14, 2024 at 9:05:00 AM UTC",
+      "text": "Hi Alice! Yes, I think we need to prioritize the tasks for this week. What do you suggest we focus on first?",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/002"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/2"
     },
     {
       "creator": {
-        "name": "User 3 Carol Lee",
-        "email": "carol.lee@projectteam.com",
+        "name": "Charlie Brown",
+        "email": "charlie.brown@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:10:00 AM UTC",
-      "text": "I agree, Bob. Clear communication will help us avoid misunderstandings.",
+      "created_date": "Thursday, November 14, 2024 at 9:10:00 AM UTC",
+      "text": "I agree with Bob. We should list out the tasks and assign them accordingly. Also, we need to check on the progress of the current tasks. I noticed that some of them are falling behind.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/003"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/3"
     },
     {
       "creator": {
-        "name": "User 4 David Brown",
-        "email": "david.brown@projectteam.com",
+        "name": "Diana Prince",
+        "email": "diana.prince@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:15:00 AM UTC",
-      "text": "Also, we should consider using project management software to track our progress.",
+      "created_date": "Thursday, November 14, 2024 at 9:15:00 AM UTC",
+      "text": "Absolutely! I can prepare a progress report for our next meeting. Would that work for everyone? It would help us identify any bottlenecks.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/004"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/4"
     },
     {
       "creator": {
-        "name": "User 1 Alice Johnson",
-        "email": "alice.johnson@projectteam.com",
+        "name": "Ethan Hunt",
+        "email": "ethan.hunt@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:20:00 AM UTC",
-      "text": "Absolutely, David! Tools like Trello or Asana could be very helpful.",
+      "created_date": "Thursday, November 14, 2024 at 9:20:00 AM UTC",
+      "text": "That sounds great, Diana! Also, let's not forget to discuss the budget constraints we talked about last week. We need to ensure we are not overspending.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/005"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/5"
     },
     {
       "creator": {
-        "name": "User 2 Bob Smith",
-        "email": "bob.smith@projectteam.com",
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:25:00 AM UTC",
-      "text": "Let's set up a demo for both tools and see which one fits our needs better.",
+      "created_date": "Thursday, November 14, 2024 at 9:25:00 AM UTC",
+      "text": "Good point, Ethan. I’ll add that to the agenda. Let's aim to finalize our task list by the end of the day, so we can hit the ground running tomorrow.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/006"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/6"
     },
     {
       "creator": {
-        "name": "User 3 Carol Lee",
-        "email": "carol.lee@projectteam.com",
+        "name": "Bob Smith",
+        "email": "bob.smith@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:30:00 AM UTC",
-      "text": "Sounds good! I can coordinate the demos with the vendors.",
+      "created_date": "Thursday, November 14, 2024 at 9:30:00 AM UTC",
+      "text": "Perfect! I’ll start drafting the task list and share it with everyone shortly. We should also include deadlines for each task to keep us accountable.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/007"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/7"
     },
     {
       "creator": {
-        "name": "User 4 David Brown",
-        "email": "david.brown@projectteam.com",
+        "name": "Charlie Brown",
+        "email": "charlie.brown@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:35:00 AM UTC",
-      "text": "Perfect! Let's aim to finalize our decision by the end of this week.",
+      "created_date": "Thursday, November 14, 202 4 at 9:35:00 AM UTC",
+      "text": "That's a great idea, Bob! Having deadlines will help us track our progress better. I can take the lead on creating a timeline for the project.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/008"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/8"
     },
     {
       "creator": {
-        "name": "User 1 Alice Johnson",
-        "email": "alice.johnson@projectteam.com",
+        "name": "Diana Prince",
+        "email": "diana.prince@example.com",
         "user_type": "Human"
- },
-      "created_date": "Monday, November 1, 2024 at 9:40:00 AM UTC",
-      "text": "Agreed! This will help us stay organized and on track with our projects.",
+      },
+      "created_date": "Thursday, November 14, 2024 at 9:40:00 AM UTC",
+      "text": "Sounds good, Charlie! Once we have the timeline, we can allocate resources more effectively. We should also consider any potential risks.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/009"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/9"
     },
     {
       "creator": {
-        "name": "User  2 Bob Smith",
-        "email": "bob.smith@projectteam.com",
+        "name": "Ethan Hunt",
+        "email": "ethan.hunt@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:45:00 AM UTC",
-      "text": "Looking forward to seeing the demos! Let's make this quarter our best yet.",
+      "created_date": "Thursday, November 14, 2024 at 9:45:00 AM UTC",
+      "text": "Absolutely, risk management is crucial. We should identify any risks early on and develop mitigation strategies. I can help with that.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/010"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/10"
     },
     {
       "creator": {
-        "name": "User  3 Carol Lee",
-        "email": "carol.lee@projectteam.com",
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:50:00 AM UTC",
-      "text": "Absolutely! With the right tools, we can enhance our productivity significantly.",
+      "created_date": "Thursday, November 14, 2024 at 9:50:00 AM UTC",
+      "text": "Great teamwork, everyone! Let's make sure we have a comprehensive plan in place. I’ll compile all our notes and send out a summary after this meeting.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/011"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/11"
     },
     {
       "creator": {
-        "name": "User  4 David Brown",
-        "email": "david.brown@projectteam.com",
+        "name": "Bob Smith",
+        "email": "bob.smith@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:55:00 AM UTC",
-      "text": "Let's keep the momentum going! I'll prepare a summary of our discussion for the next meeting.",
+      "created_date": "Thursday, November 14, 2024 at 9:55:00 AM UTC",
+      "text": "Thanks, Alice! I think it would also be beneficial to have regular check-ins to monitor our progress. Maybe weekly updates?",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/012"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/12"
     },
     {
       "creator": {
-        "name": "User  1 Alice Johnson",
-        "email": "alice.johnson@projectteam.com",
+        "name": "Charlie Brown",
+        "email": "charlie.brown@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:00:00 AM UTC",
-      "text": "Hey team, let's discuss our project management strategies for the upcoming quarter.",
+      "created_date": "Thursday, November 14, 2024 at 10:00:00 AM UTC",
+      "text": "I like that idea, Bob. Weekly updates will keep everyone aligned and allow us to address any issues promptly.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/001"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/13"
     },
     {
       "creator": {
-        "name": "User  2 Bob Smith",
-        "email": "bob.smith@projectteam.com",
+        "name": "Diana Prince",
+        "email": "diana.prince@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:05:00 AM UTC",
-      "text": "Great idea, Alice! I think we should focus on improving our communication tools.",
+      "created_date": "Thursday, November 14, 2024 at 10:05:00 AM UTC",
+      "text": "Agreed! We can set a specific day and time for these updates. Consistency will help us stay on track.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/002"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/14"
     },
     {
       "creator": {
-        "name": "User  3 Carol Lee",
-        "email": "carol.lee@projectteam.com",
+        "name": "Ethan Hunt",
+        "email": "ethan.hunt@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:10:00 AM UTC",
-      "text": "I agree, Bob. Clear communication will help us avoid misunderstandings.",
+      "created_date": "Thursday, November 14, 2024 at 10:10:00 AM UTC",
+      "text": "I can take care of scheduling those meetings. Just let me know what works best for everyone.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/003"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/15"
     },
     {
       "creator": {
-        "name": "User  4 David Brown",
-        "email": "david.brown@projectteam.com",
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:15:00 AM UTC",
-      "text": "Also, we should consider using project management software to track our progress.",
+      "created_date": "Thursday, November 14, 2024 at 10:15:00 AM UTC",
+      "text": "Thanks, Ethan! Let's aim for every Monday at 10 AM. That way, we can kick off the week with a clear focus.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/004"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/16"
     },
     {
       "creator": {
-        "name": "User  1 Alice Johnson",
-        "email": "alice.johnson@projectteam.com",
+        "name": "Bob Smith",
+        "email": "bob.smith@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:20:00 AM UTC",
-      "text": "Absolutely, David! Tools like Trello or Asana could be very helpful.",
+      "created_date": "Thursday, November 14, 2024 at 10:20:00 AM UTC",
+      "text": "Monday at 10 AM works for me! I’ll make sure to prepare updates on my tasks before the meeting.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/005"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/17"
     },
     {
       "creator": {
-        "name": "User  2 Bob Smith",
-        "email": "bob.smith@projectteam.com",
+        "name": "Charlie Brown",
+        "email": "charlie.brown@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:25:00 AM UTC",
-      "text": "Let's set up a demo for both tools and see which one fits our needs better.",
+      "created_date": "Thursday, November 14, 2024 at 10:25:00 AM UTC",
+      "text": "Same here! I’ll have my updates ready as well. This will help us stay accountable.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/006"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/18"
     },
     {
       "creator": {
-        "name": "User  3 Carol Lee",
-        "email": "carol.lee@projectteam.com",
+        "name": "Diana Prince",
+        "email": "diana.prince@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:30:00 AM UTC",
-      "text": "Sounds good! I can coordinate the demos with the vendors.",
+      "created_date": "Thursday, November 14, 2024 at 10:30:00 AM UTC",
+      "text": "Looking forward to it! I’ll also gather feedback from the team on the progress report I’ll prepare.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/007"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/19"
     },
     {
       "creator": {
-        "name": "User  4 David Brown",
-        "email": "david.brown@projectteam.com",
+        "name": "Ethan Hunt",
+        "email": "ethan.hunt@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:35:00 AM UTC",
-      "text": "Perfect! Let's aim to finalize our decision by the end of this week.",
+      "created_date": "Thursday, November 14, 2024 at 10:35:00 AM UTC",
+      "text": "Great! Let’s make sure to include any challenges we face in our updates. Transparency is key.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/008"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/20"
     },
     {
       "creator": {
-        "name": "User  1 Alice Johnson",
-        "email": "alice.johnson@projectteam.com",
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:40:00 AM UTC",
-      "text": "Agreed! This will help us stay organized and on track with our projects.",
+      "created_date": "Thursday, November 14, 2024 at 10:40:00 AM UTC",
+      "text": "Absolutely, Ethan. Addressing challenges early will help us find solutions faster. Let’s keep the communication open.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/009"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/21"
     },
     {
       "creator": {
-        "name": "User   2 Bob Smith",
-        "email": "bob.smith@projectteam.com",
+        "name": "Bob Smith",
+        "email": "bob.smith@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:45:00 AM UTC",
-      "text": "Looking forward to seeing the demos! Let's make this quarter our best yet.",
+      "created_date": "Thursday, November 14, 2024 at 10:45:00 AM UTC",
+      "text": "I’ll also make sure to highlight any successes we have. Celebrating small wins can boost team morale.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/010"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/22"
     },
     {
       "creator": {
-        "name": "User   3 Carol Lee",
-        "email": "carol.lee@projectteam.com",
+        "name": "Charlie Brown",
+        "email": "charlie.brown@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:50:00 AM UTC",
-      "text": "Absolutely! With the right tools, we can enhance our productivity significantly.",
+      "created_date": "Thursday, November 14, 2024 at 10:50:00 AM UTC",
+      "text": "Definitely! Acknowledging our achievements will keep us motivated. Let’s keep that in mind during our updates.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/011"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/23"
     },
     {
       "creator": {
-        "name": "User   4 David Brown",
-        "email": "david.brown@projectteam.com",
+        "name": "Diana Prince",
+        "email": "diana.prince@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:55:00 AM UTC",
-      "text": "Let's keep the momentum going! I'll prepare a summary of our discussion for the next meeting.",
+      "created_date": "Thursday, November 14, 2024 at 10:55:00 AM UTC",
+      "text": "I’ll include all of this in the progress report. It’s important to have a balanced view of our performance.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/012"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/24"
     },
     {
       "creator": {
-        "name": "User  1 Alice Johnson",
-        "email": "alice.johnson@projectteam.com",
+        "name": "Ethan Hunt",
+        "email": "ethan.hunt@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:00:00 AM UTC",
-      "text": "Hey team, let's discuss our project management strategies for the upcoming quarter.",
+      "created_date": "Thursday, November 14, 2024 at 11:00:00 AM UTC",
+      "text": "Great! I think we should also consider any feedback from stakeholders. Their input can be invaluable.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/001"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/25"
     },
     {
       "creator": {
-        "name": "User  2 Bob Smith",
-        "email": "bob.smith@projectteam.com",
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:05:00 AM UTC",
-      "text": "Great idea, Alice! I think we should focus on improving our communication tools.",
+      "created_date": "Thursday, November 14, 2024 at 11:05:00 AM UTC",
+      "text": "Absolutely, Ethan. I’ll reach out to them for their thoughts before our next meeting. It’s crucial to keep them in the loop.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/002"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/26"
     },
     {
       "creator": {
-        "name": "User  3 Carol Lee",
-        "email": "carol.lee@projectteam.com",
+        "name": "Bob Smith",
+        "email": "bob.smith@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:10:00 AM UTC",
-      "text": "I agree, Bob. Clear communication will help us avoid misunderstandings.",
+      "created_date": "Thursday, November 14, 2024 at 11:10:00 AM UTC",
+      "text": "That’s a good plan, Alice. Engaging stakeholders will help us align our project goals with their expectations.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/003"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/27"
     },
     {
       "creator": {
-        "name": "User  4 David Brown",
-        "email": "david.brown@projectteam.com",
+        "name": "Charlie Brown",
+        "email": "charlie.brown@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:15:00 AM UTC",
-      "text": "Also, we should consider using project management software to track our progress.",
+      "created_date": "Thursday, November 14, 2024 at 11:15:00 AM UTC",
+      "text": "I can help with that too. If we gather their feedback early, we can make adjustments as needed.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/004"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/28"
     },
     {
       "creator": {
-        "name": "User  1 Alice Johnson",
-        "email": "alice.johnson@projectteam.com",
+        "name": "Diana Prince",
+        "email": "diana.prince@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:20:00 AM UTC",
-      "text": "Absolutely, David! Tools like Trello or Asana could be very helpful.",
+      "created_date": "Thursday, November 14, 2024 at 11:20:00 AM UTC",
+      "text": "Perfect! Let’s make sure we document all feedback and action items from our discussions.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/005"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/29"
     },
     {
       "creator": {
-        "name": "User  2 Bob Smith",
-        "email": "bob.smith@projectteam.com",
+        "name": "Ethan Hunt",
+        "email": "ethan.hunt@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:25:00 AM UTC",
-      "text": "Let's set up a demo for both tools and see which one fits our needs better.",
+      "created_date": "Thursday, November 14, 2024 at 11:25:00 AM UTC",
+      "text": "I can take the lead on documenting our discussions and action items. I’ll share them with everyone after the meeting.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/006"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/30"
     },
     {
       "creator": {
-        "name": "User  3 Carol Lee",
-        "email": "carol.lee@projectteam.com",
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:30:00 AM UTC",
-      "text": "Sounds good! I can coordinate the demos with the vendors.",
+      "created_date": "Thursday, November 14, 2024 at 11:30:00 AM UTC",
+      "text": "Thanks, Ethan! That will be very helpful. Let’s ensure we all review the notes before our next meeting.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/007"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/31"
     },
     {
       "creator": {
-        "name": "User  4 David Brown",
-        "email": "david.brown@projectteam.com",
+        "name": "Bob Smith",
+        "email": "bob.smith@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:35:00 AM UTC",
-      "text": "Perfect! Let's aim to finalize our decision by the end of this week.",
-      "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/008"
+      "created_date": "Thursday, November 14, 2024 at 11:35:00 AM UTC",
+      "text": "I’ll make it a point to go over the notes and come prepared with any questions or comments.",
+      "topic_id": " ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/32"
     },
     {
       "creator": {
-        "name": "User  1 Alice Johnson",
-        "email": "alice.johnson@projectteam.com",
-        "user _type": "Human"
+        "name": "Charlie Brown",
+        "email": "charlie.brown@example.com",
+        "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:40:00 AM UTC",
-      "text": "Agreed! This will help us stay organized and on track with our projects.",
+      "created_date": "Thursday, November 14, 2024 at 11:40:00 AM UTC",
+      "text": "Same here! I think it’s important for us to be proactive in our discussions.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/009"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/33"
     },
     {
       "creator": {
-        "name": "User   2 Bob Smith",
-        "email": "bob.smith@projectteam.com",
+        "name": "Diana Prince",
+        "email": "diana.prince@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:45:00 AM UTC",
-      "text": "Looking forward to seeing the demos! Let's make this quarter our best yet.",
+      "created_date": "Thursday, November 14, 2024 at 11:45:00 AM UTC",
+      "text": "Absolutely! The more prepared we are, the more productive our meetings will be.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/010"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/34"
     },
     {
       "creator": {
-        "name": "User   3 Carol Lee",
-        "email": "carol.lee@projectteam.com",
+        "name": "Ethan Hunt",
+        "email": "ethan.hunt@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:50:00 AM UTC",
-      "text": "Absolutely! With the right tools, we can enhance our productivity significantly.",
+      "created_date": "Thursday, November 14, 2024 at 11:50:00 AM UTC",
+      "text": "I’ll also make sure to follow up on any outstanding action items from our previous meetings.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/011"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/35"
     },
     {
       "creator": {
-        "name": "User   4 David Brown",
-        "email": "david.brown@projectteam.com",
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
         "user_type": "Human"
       },
-      "created_date": "Monday, November 1, 2024 at 9:55:00 AM UTC",
-      "text": "Let's keep the momentum going! I'll prepare a summary of our discussion for the next meeting.",
+      "created_date": "Thursday, November 14, 2024 at 11:55:00 AM UTC",
+      "text": "Great initiative, Ethan! Let’s keep the momentum going and ensure we’re all aligned.",
       "topic_id": "ProjectManagement2024",
-      "message_id": "AAAA35vCCY0/ProjectManagement2024/012"
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/36"
+    },
+    {
+      "creator": {
+        "name": "Bob Smith",
+        "email": "bob.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 12:00:00 PM UTC",
+      "text": "I’m excited to see how our project progresses. Let’s make sure to support each other along the way.",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/37"
+    },
+    {
+      "creator": {
+        "name": "Charlie Brown",
+        "email": "charlie.brown@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 12:05:00 PM UTC",
+      "text": "Absolutely! Teamwork is key to our success. Let’s keep the lines of communication open.",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/38"
+    },
+    {
+      "creator": {
+        "name": "Diana Prince",
+        "email": "diana.prince@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 12:10:00 PM UTC",
+      "text": "I’m looking forward to our next meeting. Let’s make it productive and insightful!",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/39"
+    },
+    {
+      "creator": {
+        "name": "Ethan Hunt",
+        "email": "ethan.hunt@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 12:15:00 PM UTC",
+      "text": "Me too! Let’s keep pushing forward and achieve our project goals together.",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/40"
+    },
+    {
+      "creator": {
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 1:00:00 PM UTC",
+      "text": "Now, let's discuss the allocation of resources for the project. We need to ensure that we have enough resources to complete all tasks on time and within budget.",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/41"
+    },
+    {
+      "creator": {
+        "name": "Bob Smith",
+        "email": "bob.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 1:05:00 PM UTC",
+      "text": "I agree, Alice. We should create a detailed resource plan that includes personnel, equipment, and any external resources we may need.",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/42"
+    },
+    {
+      "creator": {
+        "name": "Charlie Brown",
+        "email": "charlie.brown@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 1:10:00 PM UTC",
+      "text": "That's a great idea, Bob. I can help with the personnel allocation, making sure we have the right people assigned to the right tasks.",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2 024/43"
+    },
+    {
+      "creator": {
+        "name": "Diana Prince",
+        "email": "diana.prince@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 1:15:00 PM UTC",
+      "text": "Excellent! We should also consider any training needs for the team to ensure everyone is equipped with the necessary skills.",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/44"
+    },
+    {
+      "creator": {
+        "name": "Ethan Hunt",
+        "email": "ethan.hunt@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 1:20:00 PM UTC",
+      "text": "Absolutely, Diana. I can look into potential training programs that would benefit the team and align with our project goals.",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/45"
+    },
+    {
+      "creator": {
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 1:25:00 PM UTC",
+      "text": "Great! Let's also set a timeline for when we need to have the resource plan finalized. I suggest we aim for the end of this week.",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/46"
+    },
+    {
+      "creator": {
+        "name": "Bob Smith",
+        "email": "bob.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 1:30:00 PM UTC",
+      "text": "That sounds reasonable, Alice. I’ll make sure to have my part ready by then so we can review it together.",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/47"
+    },
+    {
+      "creator": {
+        "name": "Charlie Brown",
+        "email": "charlie.brown@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 1:35:00 PM UTC",
+      "text": "I’ll coordinate with everyone to gather the necessary information for personnel allocation. We need to ensure we have a clear overview.",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/48"
+    },
+    {
+      "creator": {
+        "name": "Diana Prince",
+        "email": "diana.prince@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 1:40:00 PM UTC",
+      "text": "Perfect! I’ll also reach out to our external partners to see if they can provide any additional resources or support.",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/49"
+    },
+    {
+      "creator": {
+        "name": "Ethan Hunt",
+        "email": "ethan.hunt@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 1:45:00 PM UTC",
+      "text": "That’s a great initiative, Diana. Having external support can really help us stay on track and meet our deadlines.",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/50"
+    },
+    {
+      "creator": {
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 1:50:00 PM UTC",
+      "text": "Let’s make sure to document all our discussions and decisions regarding resource allocation. This will help us stay organized.",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/51"
+    },
+    {
+      "creator": {
+        "name": "Bob Smith",
+        "email": "bob.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 1:55:00 PM UTC",
+      "text": "Absolutely, Alice. I’ll take notes during our discussions and compile them into a document for everyone to review.",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/52"
+    },
+    {
+      "creator": {
+        "name": "Charlie Brown",
+        "email": "charlie.brown@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 2:00:00 PM UTC",
+      "text": "That sounds like a solid plan, Bob. Having everything documented will ensure we don’t miss any important details.",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/53"
+    },
+    {
+      "creator": {
+        "name": "Diana Prince",
+        "email": "diana.prince@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 2:05:00 PM UTC",
+      "text": "I’ll also make sure to follow up with our external partners and get their input on resource availability.",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/54"
+    },
+    {
+      "creator": {
+        "name": "Ethan Hunt",
+        "email": "ethan.hunt@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 2:10:00 PM UTC",
+      "text": "Great! Let’s aim to have a preliminary resource plan ready for review by the end of the week.",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/55"
+    },
+    {
+      "creator": {
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 2:15:00 PM UTC",
+      "text": "Agreed! I’ll compile all the information we gather and create a draft for our next meeting.",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/56"
+    },
+    {
+      "creator": {
+        "name": "Bob Smith",
+        "email": "bob.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 2:20:00 PM UTC",
+      "text": "Sounds good, Alice. I’ll also prepare my notes on personnel allocation to share with the team.",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/57"
+    },
+    {
+      "creator": {
+        "name": "Charlie Brown",
+        "email": "charlie.brown@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 2:25:00 PM UTC",
+      "text": "Let’s keep the lines of communication open as we work on this. Regular updates will help us stay aligned.",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/58"
+    },
+    {
+      "creator": {
+        "name": "Diana Prince",
+        "email": "diana.prince@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 2:30:00 PM UTC",
+      "text": "Absolutely! I’ll set up a shared document where we can all contribute our notes and updates.",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/59"
     }
   ]
 }
