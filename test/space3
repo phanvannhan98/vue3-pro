@@ -1,0 +1,554 @@
+{
+  "messages": [
+    {
+      "creator": {
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 9:00:00 AM UTC",
+      "text": "Hello team! I hope everyone is doing well. I wanted to touch base about our marketing strategy for the upcoming quarter.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/1"
+    },
+    {
+      "creator": {
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 9:05:00 AM UTC",
+      "text": "Hi John! I think we need to analyze our previous campaigns to see what worked and what didn't. Any thoughts on that?",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/2"
+    },
+    {
+      "creator": {
+        "name": "Tom Brown",
+        "email": "tom.brown@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 9:10:00 AM UTC",
+      "text": "I agree with Jane. We should also consider our target audience and how we can better reach them this time.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/3"
+    },
+    {
+      "creator": {
+        "name": "Emily White",
+        "email": "emily.white@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 9:15:00 AM UTC",
+      "text": "Absolutely! I can prepare a report on our past campaigns and present the findings in our next meeting.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/4"
+    },
+    {
+      "creator": {
+        "name": "Michael Green",
+        "email": "michael.green@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 9:20:00 AM UTC",
+      "text": "Sounds good, Emily! Additionally, we should set clear objectives for this quarter's strategy.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/5"
+    },
+    {
+      "creator": {
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 9:25:00 AM UTC",
+      "text": "Great point, Michael. Let's ensure that we have measurable goals to track our progress.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/6"
+    },
+    {
+      "creator": {
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 9:30:00 AM UTC",
+      "text": "Perfect! I can also help with drafting a timeline for our marketing initiatives.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/7"
+    },
+    {
+      "creator": {
+        "name": "Tom Brown",
+        "email": "tom.brown@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 9:35:00 AM UTC",
+      "text": "That would be very helpful, Jane. Having a timeline will keep us on track.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/8"
+    },
+    {
+      "creator": {
+        "name": "Emily White",
+        "email": "emily.white@example.com",
+        "user_type": "Human"
+      },
+      "created_date": " Thursday, November 14, 2024 at 9:40:00 AM UTC",
+      "text": "I can also assist in identifying key performance indicators (KPIs) to measure the success of our campaigns.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/9"
+    },
+    {
+      "creator": {
+        "name": "Michael Green",
+        "email": "michael.green@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 9:45:00 AM UTC",
+      "text": "That sounds great, Emily! We need to ensure that our KPIs align with our overall business objectives.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/10"
+    },
+    {
+      "creator": {
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 9:50:00 AM UTC",
+      "text": "Absolutely! Let's also consider the budget for our marketing efforts and how we can optimize our spending.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/11"
+    },
+    {
+      "creator": {
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 9:55:00 AM UTC",
+      "text": "Good idea, John. We should review our previous budget allocations and see where we can improve.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/12"
+    },
+    {
+      "creator": {
+        "name": "Tom Brown",
+        "email": "tom.brown@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 10:00:00 AM UTC",
+      "text": "I can help with that analysis. It will be useful to see which channels provided the best ROI.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/13"
+    },
+    {
+      "creator": {
+        "name": "Emily White",
+        "email": "emily.white@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 10:05:00 AM UTC",
+      "text": "Great! Once we have that information, we can make informed decisions moving forward.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/14"
+    },
+    {
+      "creator": {
+        "name": "Michael Green",
+        "email": "michael.green@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 10:10:00 AM UTC",
+      "text": "Let’s also set a timeline for our marketing initiatives. I suggest we aim for a quarterly review.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/15"
+    },
+    {
+      "creator": {
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 10:15:00 AM UTC",
+      "text": "Agreed! Regular reviews will help us stay agile and adjust our strategies as needed.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/16"
+    },
+    {
+      "creator": {
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 10:20:00 AM UTC",
+      "text": "I’ll draft a preliminary timeline for our initiatives and share it with everyone for feedback.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/17"
+    },
+    {
+      "creator": {
+        "name": "Tom Brown",
+        "email": "tom.brown@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 10:25:00 AM UTC",
+      "text": "That sounds good, Jane! Having a draft will help us visualize our plans better.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/18"
+    },
+    {
+      "creator": {
+        "name": "Emily White",
+        "email": "emily.white@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 10:30:00 AM UTC",
+      "text": "I can also help with gathering data on our target audience to refine our approach.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/19"
+    },
+    {
+      "creator": {
+        "name": "Michael Green",
+        "email": "michael.green@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 10:35:00 AM UTC",
+      "text": "Great initiative, Emily! Understanding our audience will be key to our success.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/20"
+    },
+    {
+      "creator": {
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 10:40:00 AM UTC",
+      "text": "Let’s also consider any potential challenges we might face and how we can address them.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/21"
+    },
+    {
+      "creator": {
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 10:45:00 AM UTC",
+      "text": "Absolutely! Identifying challenges early will help us mitigate risks effectively.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/22"
+    },
+    {
+      "creator": {
+        "name": "Tom Brown",
+        "email": "tom.brown@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 10:50:00 AM UTC",
+      "text": "I can take the lead on drafting a risk management plan for our marketing strategy.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/23"
+    },
+    {
+      "creator": {
+        "name": "Emily White",
+        "email": "emily.white@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 10:55:00 AM UTC",
+      "text": "That would be very helpful, Tom! Let’s ensure we have contingency plans in place.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/24"
+    },
+    {
+      "creator": {
+        "name": "Michael Green",
+        "email": "michael.green@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 11:00:00 AM UTC",
+      "text": "I’ll also review our previous marketing strategies to see what lessons we can apply this time.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/25"
+    },
+    {
+      "creator": {
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 11: 05:00 AM UTC",
+      "text": "That sounds like a solid plan, Michael. Learning from past experiences will help us improve our approach.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/26"
+    },
+    {
+      "creator": {
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 11:10:00 AM UTC",
+      "text": "I can assist with gathering feedback from our previous campaigns to inform our new strategy.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/27"
+    },
+    {
+      "creator": {
+        "name": "Tom Brown",
+        "email": "tom.brown@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 11:15:00 AM UTC",
+      "text": "Great idea, Jane! Feedback will be crucial in shaping our new initiatives.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/28"
+    },
+    {
+      "creator": {
+        "name": "Emily White",
+        "email": "emily.white@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 11:20:00 AM UTC",
+      "text": "Let’s also ensure we have a clear communication plan for our marketing efforts.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/29"
+    },
+    {
+      "creator": {
+        "name": "Michael Green",
+        "email": "michael.green@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 11:25:00 AM UTC",
+      "text": "Absolutely! A solid communication plan will help us keep everyone informed and engaged.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/30"
+    },
+    {
+      "creator": {
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 11:30:00 AM UTC",
+      "text": "Let’s also set a date for our next meeting to review our progress and finalize our strategy.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/31"
+    },
+    {
+      "creator": {
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 11:35:00 AM UTC",
+      "text": "How about next Thursday at the same time? That should give us enough time to prepare.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/32"
+    },
+    {
+      "creator": {
+        "name": "Tom Brown",
+        "email": "tom.brown@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 11:40:00 AM UTC",
+      "text": "Next Thursday works for me! I’ll make sure to have my updates ready by then.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/33"
+    },
+    {
+      "creator": {
+        "name": "Emily White",
+        "email": "emily.white@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 11:45:00 AM UTC",
+      "text": "Same here! I’ll gather all the necessary data and insights for our discussion.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/34"
+    },
+    {
+      "creator": {
+        "name": "Michael Green",
+        "email": "michael.green@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 11:50:00 AM UTC",
+      "text": "Looking forward to it! Let’s make sure we come prepared to discuss our strategies in detail.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/35"
+    },
+    {
+      "creator": {
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 11:55:00 AM UTC",
+      "text": "Absolutely! Together, we can create a robust marketing strategy that drives results.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/36"
+    },
+    {
+      "creator": {
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 12:00:00 PM UTC",
+      "text": "Let’s keep the momentum going and ensure we’re all aligned on our goals.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/37"
+    },
+    {
+      "creator": {
+        "name": "Tom Brown",
+        "email": "tom.brown@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 12:05:00 PM UTC",
+      "text": "Definitely! Teamwork will be essential for our success in this project.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/38"
+    },
+    {
+      "creator": {
+        "name": "Emily White",
+        "email": "emily.white@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 12:10:00 PM UTC",
+      "text": "I’m excited to see how our plans unfold. Let’s make this quarter our best yet!",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/39"
+    },
+    {
+      "creator": {
+        "name": "Michael Green",
+        "email": "michael.green@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 12:15:00 PM UTC",
+      "text": "Me too! Let’s keep pushing forward and achieve our marketing goals together.",
+      "topic_id": "MarketingStrategy2024",
+      "message_id": "BBBB45vCCY0/MarketingStrategy2024/40"
+    },
+    {
+      "creator": {
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 1:00:00 PM UTC",
+      "text": "Now, let's discuss the allocation of resources for the project. We need to ensure that we have enough resources to complete all tasks on time and within budget.",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/41"
+    },
+    {
+      "creator": {
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 1:05:00 PM UTC",
+      "text": "I agree, John. We should create a detailed resource plan that includes personnel, equipment, and any external resources we may need.",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/42"
+    },
+    {
+      "creator": {
+        "name": "Tom Brown",
+        "email": "tom.brown@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 1:10:00 PM UTC",
+      "text": "That's a great idea, Jane. I can help with the personnel allocation, making sure we have the right people assigned to the right tasks.",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/43"
+    },
+    {
+      "creator": {
+        "name": "Emily White",
+        "email": "emily.white@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 1:15:00 PM UTC",
+      "text": "Excellent! We should also consider any training needs for the team to ensure everyone is equipped with the necessary skills.",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/44"
+    },
+    {
+      "creator": {
+        "name": "Michael Green",
+        "email": "michael.green@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 1:20:00 PM UTC",
+      "text": "Absolutely, Emily. I can look into potential training programs that would benefit the team and align with our project goals.",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/45"
+    },
+    {
+      "creator": {
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 1:25:00 PM UTC",
+      "text": "Great! Let's also set a timeline for when we need to have the resource plan finalized. I suggest we aim for the end of this week.",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/46"
+    },
+    {
+      "creator": {
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 1:30:00 PM UTC",
+      "text": "That sounds reasonable, John. I’ll make sure to have my part ready by then so we can review it together.",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/47"
+    },
+    {
+      "creator": {
+        "name": "Tom Brown",
+        "email": "tom.brown@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 1:35:00 PM UTC",
+      "text": "I’ll coordinate with everyone to gather the necessary information for personnel allocation. We need to ensure we have a clear overview.",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement 2024/48"
+    },
+    {
+      "creator": {
+        "name": "Emily White",
+        "email": "emily.white@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 1:40:00 PM UTC",
+      "text": "Perfect! Once we have all the information, we can finalize the resource plan and move forward with the project.",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/49"
+    },
+    {
+      "creator": {
+        "name": "Michael Green",
+        "email": "michael.green@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Thursday, November 14, 2024 at 1:45:00 PM UTC",
+      "text": "I’ll also keep an eye on any potential risks that might arise during the project and prepare mitigation strategies.",
+      "topic_id": "ProjectManagement2024",
+      "message_id": "AAAA35vCCY0/ProjectManagement2024/50"
+    }
+  ]
+}
