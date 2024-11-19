@@ -1,0 +1,444 @@
+{
+  "messages": [
+    {
+      "creator": {
+        "name": "Mike Thompson",
+        "email": "mike.thompson@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 8:00:00 AM UTC",
+      "text": "Good morning, everyone! I was thinking we should start a fitness challenge together.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/1"
+    },
+    {
+      "creator": {
+        "name": "Sara Johnson",
+        "email": "sara.johnson@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 8:05:00 AM UTC",
+      "text": "That sounds like a great idea, Mike! What kind of challenge do you have in mind?",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/2"
+    },
+    {
+      "creator": {
+        "name": "Tom Harris",
+        "email": "tom.harris@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 8:10:00 AM UTC",
+      "text": "How about a step challenge? We can track our daily steps and see who can reach the most in a month.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/3"
+    },
+    {
+      "creator": {
+        "name": "Emily Clark",
+        "email": "emily.clark@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 8:15:00 AM UTC",
+      "text": "I love that idea! It will motivate us to get outside and be active.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/4"
+    },
+    {
+      "creator": {
+        "name": "David Lee",
+        "email": "david.lee@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 8:20:00 AM UTC",
+      "text": "Count me in! I can also share some tips on how to increase our step count.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/5"
+    },
+    {
+      "creator": {
+        "name": "Sara Johnson",
+        "email": "sara.johnson@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 8:25:00 AM UTC",
+      "text": "Awesome! Let’s set a start date and create a group to track our progress.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/6"
+    },
+    {
+      "creator": {
+        "name": "Mike Thompson",
+        "email": "mike.thompson@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 8:30:00 AM UTC",
+      "text": "How about we start next Monday? That gives everyone time to prepare.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/7"
+    },
+    {
+      "creator": {
+        "name": "Tom Harris",
+        "email": "tom.harris@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 8:35:00 AM UTC",
+      "text": "Sounds perfect! I’ll create a shared document for us to log our steps.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/8"
+    },
+    {
+      "creator": {
+        "name": "Emily Clark",
+        "email": "emily.clark@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November  12, 2024 at 8:40:00 AM UTC",
+      "text": "Great! I can also share some fun workout playlists to keep us motivated.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/9"
+    },
+    {
+      "creator": {
+        "name": "David Lee",
+        "email": "david.lee@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 8:45:00 AM UTC",
+      "text": "I love that idea, Emily! Music always makes exercising more enjoyable.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/10"
+    },
+    {
+      "creator": {
+        "name": "Sara Johnson",
+        "email": "sara.johnson@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 8:50:00 AM UTC",
+      "text": "Let’s also plan a weekly check-in to share our progress and motivate each other.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/11"
+    },
+    {
+      "creator": {
+        "name": "Mike Thompson",
+        "email": "mike.thompson@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 8:55:00 AM UTC",
+      "text": "Absolutely! Accountability will help us stay on track.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/12"
+    },
+    {
+      "creator": {
+        "name": "Tom Harris",
+        "email": "tom.harris@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 9:00:00 AM UTC",
+      "text": "I’m excited to get started! Let’s make this challenge fun and engaging.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/13"
+    },
+    {
+      "creator": {
+        "name": "Emily Clark",
+        "email": "emily.clark@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 9:05:00 AM UTC",
+      "text": "Me too! Here’s to a healthier and more active month ahead!",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/14"
+    },
+    {
+      "creator": {
+        "name": "David Lee",
+        "email": "david.lee@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 9:10:00 AM UTC",
+      "text": "Let’s also set some personal goals for the challenge to keep us motivated.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/15"
+    },
+    {
+      "creator": {
+        "name": "Sara Johnson",
+        "email": "sara.johnson@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 9:15:00 AM UTC",
+      "text": "Great idea! I want to aim for at least 10,000 steps a day.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/16"
+    },
+    {
+      "creator": {
+        "name": "Mike Thompson",
+        "email": "mike.thompson@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 9:20:00 AM UTC",
+      "text": "I’ll aim for 12,000 steps daily. Let’s see who can keep it up!",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/17"
+    },
+    {
+      "creator": {
+        "name": "Tom Harris",
+        "email": "tom.harris@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 9:25:00 AM UTC",
+      "text": "I’ll go for 15,000 steps! I’m ready to push myself.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/18"
+    },
+    {
+      "creator": {
+        "name": "Emily Clark",
+        "email": "emily.clark@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 9:30:00 AM UTC",
+      "text": "I think I’ll set a goal of 8,000 steps. I want to start slow and build up.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/19"
+    },
+    {
+      "creator": {
+        "name": "David Lee",
+        "email": "david.lee@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 9:35:00 AM UTC",
+      "text": "That’s a smart approach, Emily! We can all support each other.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/20"
+    },
+    {
+      "creator": {
+        "name": "Sara Johnson",
+        "email": "sara.johnson@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 9:40:00 AM UTC",
+      "text": "Let’s also share our favorite walking routes to keep things interesting.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/21"
+    },
+    {
+      "creator": {
+        "name": "Mike Thompson",
+        "email": "mike.thompson@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 9:45:00 AM UTC",
+      "text": "I have a great park nearby that’s perfect for walking. I’ll share the details.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/22"
+    },
+    {
+      "creator": {
+        "name": "Tom Harris",
+        "email": "tom.harris@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 9:50:00 AM UTC",
+      "text": "I usually walk around my neighborhood, but I’m open to trying new places.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/23"
+    },
+    {
+      "creator": {
+        "name": "Emily Clark",
+        "email": "emily.clark@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 9:55:00 AM UTC",
+      "text": "I love hiking! I can suggest some trails for the weekends.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/24"
+    },
+    {
+      "creator": {
+        "name": "David Lee",
+        "email": "david.lee@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 10:00:00 AM UTC",
+      "text": "That sounds fun, Emily! I’d love to join for a hike sometime.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/25"
+    },
+    {
+      "creator": {
+        "name": "Sara Johnson",
+        "email": "sara.johnson@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 10:05:00 AM UTC",
+      "text": "I’d love to join for a hike too! Let’s plan a weekend outing.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/26"
+    },
+    {
+      "creator": {
+        "name": "Mike Thompson",
+        "email": "mike.thompson@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 10:10:00 AM UTC",
+      "text": "How about we schedule a hike for next Saturday? It’ll be a great way to kick off the challenge.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/27"
+    },
+    {
+      "creator": {
+        "name": "Tom Harris",
+        "email": "tom.harris@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 10:15:00 AM UTC",
+      "text": "Next Saturday works for me! I can bring some snacks for the hike.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/28"
+    },
+    {
+      "creator": {
+        "name": "Emily Clark",
+        "email": "emily.clark@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 10:20:00 AM UTC",
+      "text": "I’ll bring some water and a first aid kit, just in case.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/29"
+    },
+    {
+      "creator": {
+        "name": "David Lee",
+        "email": "david.lee@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 10:25:00 AM UTC",
+      "text": "Perfect! Let’s make sure to take lots of pictures during our hike.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/30"
+    },
+    {
+      "creator": {
+        "name": "Sara Johnson",
+        "email": "sara.johnson@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 10:30:00 AM UTC",
+      "text": "Definitely! It’ll be fun to look back at our adventure.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/31"
+    },
+    {
+      "creator": {
+        "name": "Mike Thompson",
+        "email": "mike.thompson@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 10:35:00 AM UTC",
+      "text": "Let’s also create a group chat to keep each other updated on our progress.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/32"
+    },
+    {
+      "creator": {
+        "name": "Tom Harris",
+        "email": "tom.harris@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 10:40:00 AM UTC",
+      "text": "Great idea! It’ll help us stay connected and motivated.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/33"
+    },
+    {
+      "creator": {
+        "name": "Emily Clark",
+        "email": "emily.clark@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 10:45:00 AM UTC",
+      "text": "I can set up the group chat! Let’s make sure everyone is included.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/34"
+    },
+    {
+      "creator": {
+        "name": "David Lee",
+        "email": "david.lee@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 10:50:00 AM UTC",
+      "text": "Sounds good! I’m looking forward to seeing everyone’s progress.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/35"
+    },
+    {
+      "creator": {
+        "name": "Sara Johnson",
+        "email": "sara.johnson@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 10:55:00 AM UTC",
+      "text": "Me too! Let’s make this challenge a fun experience for all of us.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/36"
+    },
+    {
+      "creator": {
+        "name": "Mike Thompson",
+        "email": "mike.thompson@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 11:00:00 AM UTC",
+      "text": "Absolutely! Together, we can achieve our fitness goals.",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/37"
+    },
+    {
+      "creator": {
+        "name": "Tom Harris",
+        "email": "tom.harris@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 11:05:00 AM UTC",
+      "text": "Let’s keep each other accountable and have fun along the way!",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/38"
+    },
+    {
+      "creator": {
+        "name": "Emily Clark",
+        "email": "emily.clark@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 11:10:00 AM UTC",
+      "text": "Looking forward to our first check-in next week!",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/39"
+    },
+    {
+      "creator": {
+        "name": "David Lee",
+        "email": "david.lee@example.com",
+        "user_type": "Human"
+      },
+      "created_date": "Wednesday, November 12, 2024 at 11:15:00 AM UTC",
+      "text": "Let’s make this a month to remember! See you all soon!",
+      "topic_id": "FitnessChallenge2024",
+      "message_id": "FFFF55vGGY0/FitnessChallenge2024/40"
+    }
+  ]
+}
